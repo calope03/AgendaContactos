@@ -1,0 +1,9 @@
+button{
+    margin: 5px;
+}
+
+.card > .card-body > img{
+    width: 15%;
+    margin-right: 3%;
+    float: left;
+}
